@@ -1,6 +1,6 @@
-# React Study Documentation and Question
+# React Documentation and Question
 
-리액트 스터디에서 **질문을 하는 방법**에 대해 다음 양식을 지켜주세요.
+## **질문을 하는 방법**에 대해 다음 양식을 지켜주세요.
 
 1.  `GitHub에 Issue를 등록`해주세요. 매번 같은 질문을 대답해주기에 한계가 있어 질문과 답변을 공유하는 목적입니다.
 
@@ -31,7 +31,7 @@ Syntax error: Unexpected token (48:18)
 
    46 |   LOAD_BLOCK_USERS_SUCCESS,
    47 |   LOAD_BLOCK_USERS_FAILURE,
-> 48 | )<undefined, DataProps, AxiosError>();
+ > 48 | )<undefined, DataProps, AxiosError>();
                          ^
 ```
 ### 코드 구현 부
